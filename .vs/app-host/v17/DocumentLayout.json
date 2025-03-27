@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F206A69-6D94-4912-8E71-777EDE05FE3B}|client-2\\service-b.csproj|c:\\users\\asus\\desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F206A69-6D94-4912-8E71-777EDE05FE3B}|client-2\\service-b.csproj|solutionrelative:client-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D444EE-D81A-4E78-B2C5-974044F1EA12}|app-host.AppHost\\app-host.AppHost.csproj|c:\\users\\asus\\desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\app-host.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D444EE-D81A-4E78-B2C5-974044F1EA12}|app-host.AppHost\\app-host.AppHost.csproj|solutionrelative:app-host.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\SourceServer\\7bba4e2276425ba940a53f470ea06b4c1e77fb2d925390dded566f4e4b79c723\\src\\Shared\\LaunchProfiles\\LaunchProfileExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\.nuget\\packages\\aspire.hosting.apphost\\9.0.0\\build\\Aspire.Hosting.AppHost.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2E64BA-AD00-491B-8FD1-DBD782A2FA6B}|app-host.ServiceDefaults\\app-host.ServiceDefaults.csproj|c:\\users\\asus\\desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\app-host.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2E64BA-AD00-491B-8FD1-DBD782A2FA6B}|app-host.ServiceDefaults\\app-host.ServiceDefaults.csproj|solutionrelative:app-host.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D444EE-D81A-4E78-B2C5-974044F1EA12}|app-host.AppHost\\app-host.AppHost.csproj|c:\\users\\asus\\desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\app-host.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5D444EE-D81A-4E78-B2C5-974044F1EA12}|app-host.AppHost\\app-host.AppHost.csproj|solutionrelative:app-host.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F206A69-6D94-4912-8E71-777EDE05FE3B}|client-2\\service-b.csproj|c:\\users\\asus\\desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-2\\userapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F206A69-6D94-4912-8E71-777EDE05FE3B}|client-2\\service-b.csproj|solutionrelative:client-2\\userapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E1A6B0-3CDE-4AC2-8B54-87CB67A73C53}|client-1\\service-a.csproj|c:\\users\\asus\\desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-1\\service-a.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8E1A6B0-3CDE-4AC2-8B54-87CB67A73C53}|client-1\\service-a.csproj|solutionrelative:client-1\\service-a.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F206A69-6D94-4912-8E71-777EDE05FE3B}|client-2\\service-b.csproj|c:\\users\\asus\\desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-2\\controllers\\userclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F206A69-6D94-4912-8E71-777EDE05FE3B}|client-2\\service-b.csproj|solutionrelative:client-2\\controllers\\userclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F206A69-6D94-4912-8E71-777EDE05FE3B}|client-2\\service-b.csproj|c:\\users\\asus\\desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-2\\service-b.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F206A69-6D94-4912-8E71-777EDE05FE3B}|client-2\\service-b.csproj|solutionrelative:client-2\\service-b.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E1A6B0-3CDE-4AC2-8B54-87CB67A73C53}|client-1\\service-a.csproj|c:\\users\\asus\\desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E1A6B0-3CDE-4AC2-8B54-87CB67A73C53}|client-1\\service-a.csproj|solutionrelative:client-1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E1A6B0-3CDE-4AC2-8B54-87CB67A73C53}|client-1\\service-a.csproj|c:\\users\\asus\\desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E1A6B0-3CDE-4AC2-8B54-87CB67A73C53}|client-1\\service-a.csproj|solutionrelative:client-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aspire.Hosting.AppHost.targets",
+              "DocumentMoniker": "C:\\Users\\ASUS\\.nuget\\packages\\aspire.hosting.apphost\\9.0.0\\build\\Aspire.Hosting.AppHost.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\aspire.hosting.apphost\\9.0.0\\build\\Aspire.Hosting.AppHost.targets",
+              "ToolTip": "C:\\Users\\ASUS\\.nuget\\packages\\aspire.hosting.apphost\\9.0.0\\build\\Aspire.Hosting.AppHost.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\aspire.hosting.apphost\\9.0.0\\build\\Aspire.Hosting.AppHost.targets",
+              "ViewState": "AgIAAJQAAAAAAAAAAAASwKMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-27T09:13:21.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-2\\UserApiClient.cs",
+              "RelativeDocumentMoniker": "client-2\\UserApiClient.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-2\\UserApiClient.cs",
+              "RelativeToolTip": "client-2\\UserApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:34:02.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\app-host.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "app-host.AppHost\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\app-host.AppHost\\Program.cs",
+              "RelativeToolTip": "app-host.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:25:58.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "service-a.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-1\\service-a.csproj",
+              "RelativeDocumentMoniker": "client-1\\service-a.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-1\\service-a.csproj",
+              "RelativeToolTip": "client-1\\service-a.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T09:15:28.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-2\\Program.cs",
+              "RelativeDocumentMoniker": "client-2\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-2\\Program.cs",
+              "RelativeToolTip": "client-2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:15:36.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LaunchProfileExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\SourceServer\\7bba4e2276425ba940a53f470ea06b4c1e77fb2d925390dded566f4e4b79c723\\src\\Shared\\LaunchProfiles\\LaunchProfileExtensions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\7bba4e2276425ba940a53f470ea06b4c1e77fb2d925390dded566f4e4b79c723\\src\\Shared\\LaunchProfiles\\LaunchProfileExtensions.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\SourceServer\\7bba4e2276425ba940a53f470ea06b4c1e77fb2d925390dded566f4e4b79c723\\src\\Shared\\LaunchProfiles\\LaunchProfileExtensions.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\7bba4e2276425ba940a53f470ea06b4c1e77fb2d925390dded566f4e4b79c723\\src\\Shared\\LaunchProfiles\\LaunchProfileExtensions.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAArwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:15:02.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserClientController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-2\\Controllers\\UserClientController.cs",
+              "RelativeDocumentMoniker": "client-2\\Controllers\\UserClientController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-2\\Controllers\\UserClientController.cs",
+              "RelativeToolTip": "client-2\\Controllers\\UserClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:16:44.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "service-b.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-2\\service-b.csproj",
+              "RelativeDocumentMoniker": "client-2\\service-b.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-2\\service-b.csproj",
+              "RelativeToolTip": "client-2\\service-b.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T09:15:12.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\app-host.ServiceDefaults\\Extensions.cs",
+              "RelativeDocumentMoniker": "app-host.ServiceDefaults\\Extensions.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\app-host.ServiceDefaults\\Extensions.cs",
+              "RelativeToolTip": "app-host.ServiceDefaults\\Extensions.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAE8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:10:09.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "client-1\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "client-1\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:16:05.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-1\\Program.cs",
+              "RelativeDocumentMoniker": "client-1\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\client-1\\Program.cs",
+              "RelativeToolTip": "client-1\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:15:21.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\app-host.AppHost\\appsettings.json",
+              "RelativeDocumentMoniker": "app-host.AppHost\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\myfiles\\2025\\net aspire\\fromstracth\\app-host\\app-host.AppHost\\appsettings.json",
+              "RelativeToolTip": "app-host.AppHost\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T14:58:10.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

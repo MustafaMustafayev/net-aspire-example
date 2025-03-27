@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\files\myfiles\2025\net aspire\fromstracth\app-host\app-host.ServiceDefaults\bin\Debug\net9.0\app-host.ServiceDefaults.deps.json
+C:\Users\ASUS\Desktop\files\myfiles\2025\net aspire\fromstracth\app-host\app-host.ServiceDefaults\bin\Debug\net9.0\app-host.ServiceDefaults.dll
+C:\Users\ASUS\Desktop\files\myfiles\2025\net aspire\fromstracth\app-host\app-host.ServiceDefaults\bin\Debug\net9.0\app-host.ServiceDefaults.pdb
+C:\Users\ASUS\Desktop\files\myfiles\2025\net aspire\fromstracth\app-host\app-host.ServiceDefaults\obj\Debug\net9.0\app-host.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\files\myfiles\2025\net aspire\fromstracth\app-host\app-host.ServiceDefaults\obj\Debug\net9.0\app-host.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\files\myfiles\2025\net aspire\fromstracth\app-host\app-host.ServiceDefaults\obj\Debug\net9.0\app-host.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\files\myfiles\2025\net aspire\fromstracth\app-host\app-host.ServiceDefaults\obj\Debug\net9.0\app-host.ServiceDefaults.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\files\myfiles\2025\net aspire\fromstracth\app-host\app-host.ServiceDefaults\obj\Debug\net9.0\app-host.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\files\myfiles\2025\net aspire\fromstracth\app-host\app-host.ServiceDefaults\obj\Debug\net9.0\app-host.ServiceDefaults.dll
+C:\Users\ASUS\Desktop\files\myfiles\2025\net aspire\fromstracth\app-host\app-host.ServiceDefaults\obj\Debug\net9.0\refint\app-host.ServiceDefaults.dll
+C:\Users\ASUS\Desktop\files\myfiles\2025\net aspire\fromstracth\app-host\app-host.ServiceDefaults\obj\Debug\net9.0\app-host.ServiceDefaults.pdb
+C:\Users\ASUS\Desktop\files\myfiles\2025\net aspire\fromstracth\app-host\app-host.ServiceDefaults\obj\Debug\net9.0\ref\app-host.ServiceDefaults.dll
